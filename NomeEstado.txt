@@ -1,0 +1,14 @@
+UF;NOME_ESTADO
+PA;Brasil,Pará
+AM;Brasil,Amazonas
+RO;Brasil,Rondônia
+BA;Brasil,Bahia
+SP;Brasil,São Paulo
+RS;Brasil,Rio Grande do Sul
+RJ;Brasil,Rio de Janeiro
+CE;Brasil,Ceará
+MG;Brasil,Minas Gerais
+GO;Brasil,Goiás
+PR;Brasil,Paraná
+PE;Brasil,Pernambuco
+MA;Brasil,Maranhão
